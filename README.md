@@ -10,6 +10,6 @@ Steps to Activate:
 7. Right click on the file and Run as administrator.
 8. Wait 1 minute and let it activate.
 9. It will show **Product activation successful**.
-10. Close the cmd file and Open any Office app, go to **Account**, you will see **Product Activated**.
+10. Close the cmd file and open any Office app, go to **Account**, you will see **Product Activated**.
 
 Enjoy!
